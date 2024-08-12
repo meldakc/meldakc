@@ -1,9 +1,13 @@
+
+
+
+
 # 💫 About Me:
 🔭 I’m currently working on improving myself.<br>
 🌱 I’m currently learning C#, SQL and PHP.<br>
 
-<img src="![221352975-94759904-aa4c-4032-a8ab-b546efb9c478](https://github.com/user-attachments/assets/b66a81fe-ab88-4efa-865d-79995f95f59c)" align="left">me
 
+![221352975-94759904-aa4c-4032-a8ab-b546efb9c478](https://github.com/user-attachments/assets/eec9be1c-2c77-4888-a9f5-03d455667659)
 
 
 
